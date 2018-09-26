@@ -1,0 +1,11 @@
+{
+  "name": "acuity-js-async-await-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "acuityscheduling": "^0.1.7"
+  }
+}
